@@ -1,4 +1,5 @@
-# Ibrotec-Global-Smartphone-Market-Analysis-2024-
+# Ibrotec-Global-Smartphone-Market-Analysis-2024-![Dashboard 3](https://github.com/user-attachments/assets/6e41b3a9-7dd4-4909-b964-83fd18e34d4e)
+
 A comprehensive analysis and visualization of global smartphone market trends, competitive landscapes, and future projections. This repository contains data-driven insights into market shares, consumer preferences, and emerging technologies shaping the smartphone industry worldwide.
 Project Overview
 This repository contains a comprehensive analysis of student performance across various demographic and academic factors. The study investigates correlations between student performance metrics (math, reading, writing, and aggregate scores) and predictor variables including gender, race/ethnicity, parental education level, lunch type, and test preparation.
